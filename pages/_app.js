@@ -5,7 +5,7 @@ function MyApp({ Component, pageProps }) {
   return (
           <>
             <Head>
-              <title>Website - Cabo Verde</title>
+              <title>Website - Moçambique</title>
             </Head>
             <Component {...pageProps} />
           </>
